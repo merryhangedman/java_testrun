@@ -5,6 +5,7 @@
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox" />
+        <option name="gradleHome" value="C:/Tools/gradle-4.8-all/gradle-4.8/bin" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/sandbox" />
