@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="adressbook_main" target="1.10" />
+      <module name="adressbook_test" target="1.10" />
       <module name="sandbox_main" target="1.10" />
       <module name="sandbox_test" target="1.10" />
     </bytecodeTargetLevel>
